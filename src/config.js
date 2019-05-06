@@ -4,6 +4,8 @@ const apiKey = "f8e372ddf0bcc7cc37889790eb3eec5e";
 const endPoint = "entries";
 const languageCode = "en-us";
 
+//https://od-api.oxforddictionaries.com/api/v2/entries/en-us
+
 const url =
   "https://od-api.oxforddictionaries.com/api/v2/" +
   endPoint +
